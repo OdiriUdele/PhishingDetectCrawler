@@ -722,19 +722,19 @@ def generate_external_dataset(url):
         return status
 
 
-def main():
-    # Get user input
-
-    generate_external_dataset("https://www.trovefinance.com/")
-    # user_input = input("Enter something: ")
-    # #
-    # # # Process and display the input
-    # if user_input:
-    #     print(f"You entered: {user_input}")
-    #     is_random(user_input)
-    # else:
-    #     print("You didn't enter anything.")
-
-
-if __name__ == "__main__":
-    main()
+# def main():
+#     # Get user input
+#
+#     generate_external_dataset("https://www.trovefinance.com/")
+#     # user_input = input("Enter something: ")
+#     # #
+#     # # # Process and display the input
+#     # if user_input:
+#     #     print(f"You entered: {user_input}")
+#     #     is_random(user_input)
+#     # else:
+#     #     print("You didn't enter anything.")
+#
+#
+# if __name__ == "__main__":
+#     main()
