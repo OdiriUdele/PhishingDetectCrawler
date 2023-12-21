@@ -15,9 +15,9 @@ from bs4 import BeautifulSoup
 
 from model.code import model_inference
 
-page_rank_key = "8swcskwk4scko0gw0wkk8s484kwsww4g0gw4k04g"  # 'Add your OPR API key here'
-google_api_key = "AIzaSyA_nfbhPR_lQalRSetg4zZPt4ge8RU6GaI"  # 'Add your GOOG API key here'
-google_api_cx = "332899deff05744fb"  # 'Add your Google API cx here'
+page_rank_key = ""  # 'Add your OPR API key here'
+google_api_key = ""  # 'Add your GOOG API key here'
+google_api_cx = ""  # 'Add your Google API cx here'
 
 
 def is_URL_accessible(url):
